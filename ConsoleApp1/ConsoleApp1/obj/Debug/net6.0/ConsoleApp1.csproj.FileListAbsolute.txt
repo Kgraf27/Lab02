@@ -1,0 +1,5 @@
+C:\Users\graf27\OneDrive - purdue.edu\CGT 215\Lab02\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\graf27\OneDrive - purdue.edu\CGT 215\Lab02\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graf27\OneDrive - purdue.edu\CGT 215\Lab02\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\graf27\OneDrive - purdue.edu\CGT 215\Lab02\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\graf27\OneDrive - purdue.edu\CGT 215\Lab02\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
